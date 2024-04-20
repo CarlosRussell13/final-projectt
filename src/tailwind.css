@@ -12,7 +12,7 @@ body {
     font-family: 'Roboto', 'Montserrat', 'Helvetica Neue';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: rgb(184, 200, 206);
+    background-color: rgb(0, 0, 0);
     text-align: justify;
     font-size: 1rem;
     bottom: 0.5rem;
